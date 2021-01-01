@@ -3,8 +3,14 @@ package com.app.githubdemo;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
 
 public class ThirdActivity extends AppCompatActivity {
+
+    private EditText editTextTextPersonName;
+    private EditText editTextTextPersonName2;
+    private Button button;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -14,6 +20,10 @@ public class ThirdActivity extends AppCompatActivity {
         /*-- Comment First --*/
 
         /*-- Comment Second --*/
+
+        editTextTextPersonName = findViewById(R.id.editTextTextPersonName);
+        editTextTextPersonName2 = findViewById(R.id.editTextTextPersonName2);
+        button = findViewById(R.id.button);
 
     }
 }
