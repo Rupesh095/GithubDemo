@@ -25,5 +25,7 @@ public class ThirdActivity extends AppCompatActivity {
         editTextTextPersonName2 = findViewById(R.id.editTextTextPersonName2);
         button = findViewById(R.id.button);
 
+        /* Comment Third */
+
     }
 }
