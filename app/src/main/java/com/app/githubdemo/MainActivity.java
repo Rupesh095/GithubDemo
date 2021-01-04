@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         /*--- New Comment 1 ---*/
 
+        /*--- Branch 2 Comment 2 ---*/
+
     }
 }
