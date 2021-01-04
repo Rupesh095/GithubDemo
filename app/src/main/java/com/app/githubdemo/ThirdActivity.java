@@ -31,5 +31,7 @@ public class ThirdActivity extends AppCompatActivity {
 
         /*-- Comment Six --*/
 
+        /*-- Comment Seven --*/
+
     }
 }
